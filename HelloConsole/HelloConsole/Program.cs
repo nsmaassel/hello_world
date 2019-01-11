@@ -12,6 +12,7 @@ namespace HelloConsole
         {
             Console.WriteLine("Hello World!");
 
+            // Display the console
             Console.Read();
         }
     }
