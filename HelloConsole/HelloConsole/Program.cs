@@ -4,6 +4,8 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+
+// This is a template for a C# console application
 namespace HelloConsole
 {
     class Program
